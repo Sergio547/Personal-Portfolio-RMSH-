@@ -26,8 +26,15 @@ header .container {
   margin: 0 10px;
   text-decoration: none;
   color: #000000;
+  padding: 12px 20px;
 }
 
+.nav-links a:hover{
+  color: white;
+  background-color: #000;
+  border-radius: 20px;
+  padding: 12px 20px;
+}
 
 main {
   margin-top: 20px;
